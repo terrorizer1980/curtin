@@ -5,3 +5,4 @@ jsonschema
 # Dependency of jsonschema.
 # Version 0.16.0 is the latest version supporting Python < 3.5.
 pyrsistent==0.16.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
